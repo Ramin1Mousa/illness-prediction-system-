@@ -1,2 +1,2 @@
-# illness-prediction-system-
+# illness-prediction-system
 illness prediction system 
